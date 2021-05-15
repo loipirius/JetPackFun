@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWAsset" id="{a9a91413-4f73-4fb5-bcdd-17bb812af37e}">
+		<property name="assetPath">
+			<value>CL_LiftUp.rpp.link/Flap_region_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0049886621315194</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{decf9b77-39fa-4617-aeac-92a5f0995e4e}</destination>
+		</relationship>
+	</object>
+</objects>

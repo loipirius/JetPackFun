@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWAsset" id="{b4f24dac-03b9-4521-b6fa-ca2f6293e87d}">
+		<property name="assetPath">
+			<value>Collect_Jingle_Unlock.rpp.link/Water, Drain, Rain Run Down Gutter 01 SND1820-glued_region_01.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>25</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{7a8aac35-becc-4b44-9285-3fae0b4fbe2b}</destination>
+		</relationship>
+	</object>
+</objects>

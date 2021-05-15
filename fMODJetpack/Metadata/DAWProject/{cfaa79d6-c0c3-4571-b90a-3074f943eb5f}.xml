@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWProject" id="{cfaa79d6-c0c3-4571-b90a-3074f943eb5f}">
+		<property name="assetPath">
+			<value>Collect_Jingle_Simple.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>C:/Users/Luigi/Desktop/ReaperProjects_jetpack/Collect_Jingle_Simple.rpp</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+	</object>
+</objects>

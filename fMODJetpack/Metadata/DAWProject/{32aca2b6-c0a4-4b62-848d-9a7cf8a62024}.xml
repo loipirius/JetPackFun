@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWProject" id="{32aca2b6-c0a4-4b62-848d-9a7cf8a62024}">
+		<property name="assetPath">
+			<value>JP_Stop.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>C:/Users/Luigi/Desktop/ReaperProjects_jetpack/JP_Stop.rpp</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+	</object>
+</objects>

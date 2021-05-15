@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{9bdd7e39-5e26-4152-bf15-bd4aed31bc7a}">
+		<property name="name">
+			<value>Fuel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{26062e35-0de5-405d-9d03-c127e329171e}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{bebf3d0f-1826-49c9-b6f8-569d99f93afa}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{bebf3d0f-1826-49c9-b6f8-569d99f93afa}">
+		<property name="maximum">
+			<value>18</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

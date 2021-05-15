@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWProject" id="{ac375540-c683-4ff8-bc39-c67cf16a9463}">
+		<property name="assetPath">
+			<value>VO_Speed.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>C:/Users/Luigi/Desktop/ReaperProjects_jetpack/VO_Speed.rpp</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+	</object>
+</objects>

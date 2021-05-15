@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWAsset" id="{29076da1-ce70-4d39-beca-f05fa76edf54}">
+		<property name="assetPath">
+			<value>JP_Start.rpp.link/ master_region_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.6230000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{56f540be-dc74-4c95-b71f-8d1f7cd5cca5}</destination>
+		</relationship>
+	</object>
+</objects>

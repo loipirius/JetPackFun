@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWProject" id="{21404e1d-e8d8-47fc-bc2d-208f4738464d}">
+		<property name="assetPath">
+			<value>2DAmbiance.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>C:/Users/Luigi/Desktop/ReaperProjects_jetpack/2DAmbiance.rpp</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+	</object>
+</objects>

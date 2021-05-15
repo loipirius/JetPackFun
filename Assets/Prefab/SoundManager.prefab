@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6771847662542576505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6771847662542576507}
+  - component: {fileID: 6771847662542576504}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6771847662542576507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6771847662542576505}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.461129, y: 7.9690275, z: -3.2919607}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6771847662542576504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6771847662542576505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b6869706bef5544b9f391f7e9216c9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movement: {fileID: 0}
+  ambiance2D: event:/Environment/Ambient/Ambiance2D
+  JP_loop: event:/Character/Jetpack/JP_loop
+  VO_Height: event:/Character/Voice/VO_Height
+  VO_Speed: event:/Character/Voice/VO_Speed
+  Collect_jingle_simple: event:/Interactions/Collectables/Collect_Jingle_Simple
+  Collect_jingle_unlock: event:/Interactions/Collectables/Collect_Jingle_Unlock
+  CL_land: event:/Character/Collisions/CL_land
+  Outdoors_Temple: event:/Music/Outdoors_Temple
+  voicelineCD: 20
+  voice2Timer: 20
+  voice1Timer: 20
+  player: {fileID: 0}
+  playerRB: {fileID: 0}
+  playerSpeed: 0

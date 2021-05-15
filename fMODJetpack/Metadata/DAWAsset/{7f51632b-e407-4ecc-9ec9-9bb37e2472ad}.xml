@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWAsset" id="{7f51632b-e407-4ecc-9ec9-9bb37e2472ad}">
+		<property name="assetPath">
+			<value>JP_Stop.rpp.link/Jetpack_StopRegion_region_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.6509977324263039</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{32aca2b6-c0a4-4b62-848d-9a7cf8a62024}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWAsset" id="{15c2b45b-85fb-48f1-850a-b69dc722d911}">
+		<property name="assetPath">
+			<value>Collect_Jingle_Simple.rpp.link/jiggy-fanfare-banjo-kazooie_region_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.0836249999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{cfaa79d6-c0c3-4571-b90a-3074f943eb5f}</destination>
+		</relationship>
+	</object>
+</objects>

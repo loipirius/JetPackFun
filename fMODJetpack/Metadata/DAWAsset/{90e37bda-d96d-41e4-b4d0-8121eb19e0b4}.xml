@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWAsset" id="{90e37bda-d96d-41e4-b4d0-8121eb19e0b4}">
+		<property name="assetPath">
+			<value>Collect_Jingle_Unlock.rpp.link/Step4_region_07.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.50900000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{7a8aac35-becc-4b44-9285-3fae0b4fbe2b}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="DAWAsset" id="{a229a03b-1e98-41b3-8d87-b90815d35bac}">
+		<property name="assetPath">
+			<value>CL_land.rpp.link/Step3_region_06.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.39300000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3b2c219b-7e31-42cb-8514-b8f0b578d6de}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{66037d1c-e3d6-467e-a13a-865300b45c98}</destination>
+		</relationship>
+	</object>
+</objects>
